@@ -1,4 +1,13 @@
-# 🛡️ DISA STIG Remediation – Windows 10 (PowerShell)
+<p align="center">
+  <img src="assets/Readme-header.png" alt="DISA STIG Remediation" width="700">
+</p>
+
+<h1 align="center">DISA STIG Remediation – Windows 10</h1>
+
+<p align="center">
+  Automated Windows 10 DISA STIG remediations using PowerShell
+</p>
+
 
 > **Hands-on Windows 10 DISA STIG remediations with manual validation and automated PowerShell enforcement.**
 
